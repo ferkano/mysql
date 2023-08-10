@@ -60,3 +60,18 @@ son variables que el servidor y computador pueden guardar variables.
 ### crear archivo app
 
 app va a contoner todos los use que estaban en index, solo en index dejamos el listen.
+
+### deploy
+
+creamos archigo .gitigonre
+
+inicializamos repo con git init.
+git add .
+git commit -m "sd"
+
+creamos repo en git hub
+git remote .....
+git push master
+
+agregar start script en package.json
+hacemos otros commit y push
